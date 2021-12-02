@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HideEditorButton.Module", "HideEditorButton.Module\HideEditorButton.Module.csproj", "{214AA656-8584-4D7B-9401-74A22C13B053}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HideEditorButton.Module.Win", "HideEditorButton.Module.Win\HideEditorButton.Module.Win.csproj", "{D4812741-EAD5-44E9-ABD2-AE19C7B4D589}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HideEditorButton.Win", "HideEditorButton.Win\HideEditorButton.Win.csproj", "{3620BD39-78A5-4037-8938-C158B1C14113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{214AA656-8584-4D7B-9401-74A22C13B053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214AA656-8584-4D7B-9401-74A22C13B053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214AA656-8584-4D7B-9401-74A22C13B053}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{214AA656-8584-4D7B-9401-74A22C13B053}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{214AA656-8584-4D7B-9401-74A22C13B053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214AA656-8584-4D7B-9401-74A22C13B053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4812741-EAD5-44E9-ABD2-AE19C7B4D589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4812741-EAD5-44E9-ABD2-AE19C7B4D589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4812741-EAD5-44E9-ABD2-AE19C7B4D589}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{D4812741-EAD5-44E9-ABD2-AE19C7B4D589}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{D4812741-EAD5-44E9-ABD2-AE19C7B4D589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4812741-EAD5-44E9-ABD2-AE19C7B4D589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3620BD39-78A5-4037-8938-C158B1C14113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3620BD39-78A5-4037-8938-C158B1C14113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3620BD39-78A5-4037-8938-C158B1C14113}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{3620BD39-78A5-4037-8938-C158B1C14113}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{3620BD39-78A5-4037-8938-C158B1C14113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3620BD39-78A5-4037-8938-C158B1C14113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731D49A5-9A8E-405D-A184-2B703AD6C566}
+	EndGlobalSection
+EndGlobal
